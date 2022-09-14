@@ -21,5 +21,4 @@ int main()
     
     printf("Total head moment is %d",TotalHeadMoment);
     return 0;
-    
 }
